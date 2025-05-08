@@ -1,0 +1,24 @@
+{
+  "name": "onlinespe",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next export"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "axios": "^1.8.4",
+    "bootstrap": "^5.3.5",
+    "next": "^15.3.1",
+    "razorpay": "^2.9.6",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.9",
+    "react-dom": "^18.3.1",
+    "slugify": "^1.6.6",
+    "yet-another-react-lightbox": "^3.23.0"
+  }
+}
